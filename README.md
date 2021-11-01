@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/bikashsaud">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bikashsaud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikashsaud&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🛠 &nbsp;Habilidades
 
@@ -38,12 +46,11 @@ Here are some ideas to get you started:
   
 ![Visitor Count](https://profile-counter.glitch.me/bikashsaud/count.svg)
   
+## Find me
+  
+<div>
+  <a href="mailto:saudbikash514@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bikash-saud-143ab3155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/bikashsaud" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/bikashsaud">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bikashsaud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikashsaud&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
