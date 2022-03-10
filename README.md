@@ -2,7 +2,7 @@
 ¯\_(^__^)_/¯
    |____|
     L  L
- Hello, I’m currently learning JavaScript...
+ Hello.....
  ```
  
 <!--
