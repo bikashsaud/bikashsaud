@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <br>
 
  ### 🛠 Visits
-<div align="center1">
+<div align="center">
  
 ![Visitor Count](https://profile-counter.glitch.me/bikashsaud/count.svg)
  </div>
