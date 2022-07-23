@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-### 🛠 &nbsp;Habilidades
+### 🛠 &nbsp;Skills and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=FFA518)&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=006400)&nbsp;&nbsp;
@@ -43,14 +43,15 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=A8B9CC)&nbsp;&nbsp;
 
-## Visits
+### Visits
   
 ![Visitor Count](https://profile-counter.glitch.me/bikashsaud/count.svg)
   
-## Find me
+### Find me
   
   <a href="mailto:saudbikash514@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bikash-saud-143ab3155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/bikashsaud" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> <a href="https://stackoverflow.com/users/9431952/bikashsaud" target="_blank"><img src="https://img.shields.io/badge/-Stack Overflow-292961?style=for-the-badge&logo=stackoverflow&logoColor=CA4245" target="_blank"></a> 
+  <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 
