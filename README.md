@@ -47,11 +47,11 @@ Here are some ideas to get you started:
   
 ![Visitor Count](https://profile-counter.glitch.me/bikashsaud/count.svg)
   
-### Find me
+### Follow me around the web
   
   <a href="mailto:saudbikash514@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bikash-saud-143ab3155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/bikashsaud" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> <a href="https://stackoverflow.com/users/9431952/bikashsaud" target="_blank"><img src="https://img.shields.io/badge/-Stack Overflow-292961?style=for-the-badge&logo=stackoverflow&logoColor=CA4245" target="_blank"></a> 
-  <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+  <a href="https://dev.to/bikashsaud" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"  target="_blank"></a>
 </div>
 
