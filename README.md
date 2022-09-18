@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=A8B9CC)&nbsp;&nbsp;
 <br>
 <br>
@@ -58,8 +57,9 @@ Here are some ideas to get you started:
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=postman&logoColor=white)&nbsp;&nbsp;
 ![PYCHARM](https://img.shields.io/badge/PYCHARM-05122A?&style=flat&logo=PyCharm&logoColor=white)&nbsp;&nbsp;
 ![VS CODE](https://img.shields.io/badge/-VS%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-05122A?&style=flat&logo=sublime-text&logoColor=white)&nbsp;&nbsp;
 ![Jupyter](https://img.shields.io/badge/JUPYTER-05122A?style=flat&logo=jupyter&logoColor=white)&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/BASH-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;
+
  <br>
 <br>
 
