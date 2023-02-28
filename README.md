@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=006400)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![JQuery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=JQuery&logoColor=006400)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&logoColor=A8B9CC) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
